@@ -1,4 +1,4 @@
-### awesome vr project with vulcanos ###
+## A vr project about volcanos
 
 Developed with Unity3D - Primarly tested with a google cardboard
 
